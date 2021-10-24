@@ -1,0 +1,6 @@
+.div1{
+    border: 2px solid red;
+    height: 300px;
+    overflow: auto;
+    background-image: linear-gradient(red green);
+}
